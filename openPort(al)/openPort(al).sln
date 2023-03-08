@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "openPort(al)", "openPort(al).csproj", "{4C810548-92C5-47D2-83C0-F88B1BEE3EF0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "..\Installer\Installer.vdproj", "{18F10118-3D9C-4FB9-98C9-C6CA20D982AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C810548-92C5-47D2-83C0-F88B1BEE3EF0}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{4C810548-92C5-47D2-83C0-F88B1BEE3EF0}.All|Any CPU.Build.0 = Release|Any CPU
+		{4C810548-92C5-47D2-83C0-F88B1BEE3EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C810548-92C5-47D2-83C0-F88B1BEE3EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C810548-92C5-47D2-83C0-F88B1BEE3EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C810548-92C5-47D2-83C0-F88B1BEE3EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18F10118-3D9C-4FB9-98C9-C6CA20D982AB}.All|Any CPU.ActiveCfg = Debug
+		{18F10118-3D9C-4FB9-98C9-C6CA20D982AB}.Debug|Any CPU.ActiveCfg = Release
+		{18F10118-3D9C-4FB9-98C9-C6CA20D982AB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D48C859D-896A-45BC-A85B-81A7891E7A2E}
+	EndGlobalSection
+EndGlobal
